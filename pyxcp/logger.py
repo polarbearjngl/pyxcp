@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import logging
 
-logging.basicConfig()
+# logging.basicConfig()
 
 
 class Logger(object):
